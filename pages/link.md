@@ -13,7 +13,11 @@ permalink: /links.html
 </div>
 {% endfor %}
 
-[Return to Home]({{ site.url }})
+[Linkedin](https://www.linkedin.com/in/feiyuzhang/) 
+
+[Github](https://github.com/neo99zhang)
+
+[Return to Home]({{ site.baseurl }})
 
 <hr/>
 
@@ -24,3 +28,13 @@ permalink: /links.html
   {% include comments.html %}
   {% endif %}
   {% include scripts.html %}
+
+<!-- --- saved for reference. used to be billboard.md
+layout: page
+title: Billboard
+tagline: Biu~
+---
+
+<div style="text-align:center">:shit:nothing...</div>
+
+[Return to Home]({{ site.url }}) -->

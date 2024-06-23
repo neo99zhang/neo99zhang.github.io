@@ -10,8 +10,6 @@ As a recent thesis-track M.S. graduate from UIUC ECE, I develop, test, deploy, a
 
 You may find me here:
 
-[Linkedin](https://www.linkedin.com/in/feiyuzhang/) 
-[Github](https://github.com/neo99zhang)
 <a href="mailto:feiyuz2@illinois.edu">feiyuz2@illinois.edu</a>
 <a href="mailto:neofeiyu@gmail.com">neofeiyu@gmail.com</a>
 
